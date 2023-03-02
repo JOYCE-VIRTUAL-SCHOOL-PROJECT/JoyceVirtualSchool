@@ -1,1 +1,1 @@
-# JoyceVirtualShcool
+# JoyceVirtualSchool
